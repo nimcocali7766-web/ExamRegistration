@@ -1,0 +1,23 @@
+Question 1: What is the purpose of the try and catch blocks?
+
+Answer:
+
+The try block contains code that may cause an exception. The catch block handles the exception and prevents the program from terminating unexpectedly.
+
+Question 2: Explain the difference between throw and throws.
+
+Answer:
+
+throw is used to explicitly throw an exception, while throws declares that a method may throw an exception.
+
+Question 3: What is the purpose of the finally block?
+
+Answer:
+
+The finally block executes whether an exception occurs or not. It is commonly used for cleanup operations, such as closing resources.
+
+Question 4: Why is a custom exception useful in this application?
+
+Answer:
+
+A custom exception allows the program to handle specific errors with meaningful messages related to student exam registration.
